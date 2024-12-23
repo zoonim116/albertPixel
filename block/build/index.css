@@ -1,0 +1,24 @@
+.fb-pixel-popover > div {
+  padding: 15px;
+  box-sizing: border-box;
+  width: auto;
+}
+
+.fb-pixel-flex-wrap {
+  flex-wrap: wrap;
+  min-width: 200px;
+}
+
+#fb_svg_icon {
+  padding: 5px;
+}
+
+.unlink-btn {
+  margin-left: 15px;
+}
+
+.url-helper p {
+  margin-top: -5px;
+}
+
+/*# sourceMappingURL=index.css.map*/
